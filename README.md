@@ -5,11 +5,7 @@ I offer you a static analysis for the Metasploit module x86/fnstenv_mov (Variabl
 
 Python2.7
 
-Pwntools:
-
-$pip install pwntools
-
-
+Pwntools: $pip install pwntools
 
 # EXAMPLE HOW TO USE static.py:
 
